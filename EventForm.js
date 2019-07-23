@@ -2,7 +2,9 @@ import React, { Component } from "react";
 import { View, Text, TouchableHighlight } from "react-native";
 
 class EventForm extends Component {
-  handleAddPress = () => {}
+  handleAddPress = () => {
+      this.props.navigation.navigate('list')
+  }
 
   render() {
     return (
