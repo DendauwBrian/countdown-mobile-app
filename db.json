@@ -1,24 +1,44 @@
 {
-    "events": [
-      {
-        "title": "Release RN course",
-        "date": "2019-07-25T00:00:00.000Z",
-        "id": "05dafc66-bd91-43a0-a752-4dc40f039144"
-      },
-      {
-        "title": "Demo a new app",
-        "date": "2020-03-29T13:45:18.000Z",
-        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
-      },
-      {
-        "title": "Go on holiday",
-        "date": "2019-07-31T08:09:24.000Z",
-        "id": "4cdbe78f-54df-4769-bf3b-02a930161ec5"
-      },
-      {
-        "title": "Come back from holiday",
-        "date": "2019-08-10T10:09:24.000Z",
-        "id": "81066e94-5e2a-410a-986c-67dcc72d3a82"
-      }
-    ]
-  }
+  "events": [
+    {
+      "title": "Release RN course",
+      "date": "2019-07-25T00:00:00.000Z",
+      "id": "05dafc66-bd91-43a0-a752-4dc40f039144"
+    },
+    {
+      "title": "Demo a new app",
+      "date": "2020-03-29T13:45:18.000Z",
+      "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
+    },
+    {
+      "title": "Go on holiday",
+      "date": "2019-07-31T08:09:24.000Z",
+      "id": "4cdbe78f-54df-4769-bf3b-02a930161ec5"
+    },
+    {
+      "title": "Come back from holiday",
+      "date": "2019-08-10T10:09:24.000Z",
+      "id": "81066e94-5e2a-410a-986c-67dcc72d3a82"
+    },
+    {
+      "title": "Test",
+      "date": "2019-07-25T16:31:00.000Z",
+      "id": "cPpk_fx"
+    },
+    {
+      "title": "A new event",
+      "date": "2019-07-28T02:01:00.000Z",
+      "id": "wb4A7fD"
+    },
+    {
+      "title": "Test reset",
+      "date": "2019-07-24T07:34:00.000Z",
+      "id": "sZG39fM"
+    },
+    {
+      "title": "Again",
+      "date": "2019-07-27T02:45:00.000Z",
+      "id": "De4C1F9"
+    }
+  ]
+}
